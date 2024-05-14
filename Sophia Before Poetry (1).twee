@@ -1,0 +1,1033 @@
+:: StoryTitle
+Sophia Before Poetry
+
+
+:: StoryData
+{
+  "ifid": "12D5FBB8-F5A0-47EA-9188-4571E0250010",
+  "format": "Chapbook",
+  "format-version": "1.2.3",
+  "start": "Title Page",
+  "zoom": 1
+}
+
+
+:: \ Main 2 {"position":"1800,1150","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+When Sophia arrives at the Main garden, the plants are cheerful and vibrant, their colors mirroring their friendly demeanor.
+
+She questions them about the whereabouts of the powerful plant, to which they respond with uncertainty. They seem to be withholding some information.
+<br>
+
+**[[Go to Lake Garden->Lake 2.1]]**
+
+
+:: AfterGardens {"position":"2050,1600","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Sophia and the gardener find themselves at a loss, feeling utterly useless and perplexed in their search for the powerful plant. 
+
+Desperate for clues, they turn to an ancient and mysterious book that the gardener discovered in the old garden shed shortly after beginning his role. 
+
+<br>
+
+**[[Continue->Mysterious Book]]**
+
+
+:: Big Old Tree suggests confronting the gardener {"position":"1850,450","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Emotionally, the gardener also comes clean with his true intentions which brought him to work in this garden. 
+
+He aims to uncover the truth of these fabled gardens, whether they house a legendary plant rumored to be capable of providing extraordinary powers to those who possess it.
+
+<br>
+
+**[[Continue ->Gardener's story]]**
+
+
+:: Cactus 3 {"position":"1950,1150","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+She is immediately met with hostility by the Cacti. The plants mock her, calling her naive and dismissing the gardener's claims as lies. 
+
+They assert that there is no such thing as a powerful plant, leaving Sophia disheartened by their response.
+<br>
+
+**[[Go to Main Garden->Main 3.1]]**
+
+
+:: Cactus 4.1 {"position":"2150,1325","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+She is immediately met with hostility by the Cacti. The plants mock her, calling her naive and dismissing the gardener's claims as lies. 
+
+They assert that there is no such thing as a powerful plant, leaving Sophia disheartened by their response.
+<br>
+
+[[Next->AfterGardens]]
+
+
+:: Cactus 5 {"position":"2300,1150","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+She is immediately met with hostility by the Cacti. The plants mock her, calling her naive and dismissing the gardener's claims as lies. 
+
+They assert that there is no such thing as a powerful plant, leaving Sophia disheartened by their response.
+<br>
+
+**[[Go to Lake Garden->Lake 5.1]]**
+
+
+:: Cactus 6.1 {"position":"2500,1275","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+She is immediately met with hostility by the Cacti. The plants mock her, calling her naive and dismissing the gardener's claims as lies. 
+
+They assert that there is no such thing as a powerful plant, leaving Sophia disheartened by their response.
+<br>
+
+[[Next->AfterGardens]]
+
+
+:: Cactus proposes poisoning the gardener {"position":"1150,450","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Sophia seeks advise from the wise Old Big Tree, hoping to discover which plant in the garden provides a potent poison. 
+
+In response, Big Old Tree mentions the presence of poisonous mushrooms by the lake, before continuing to ask "*Are you absolutely certain about this?*"
+<br>
+
+**[[No, I don't want to do this anymore]]** <br>
+**[[I am sure]]** <br>
+
+
+:: Camellia advocates for stealing the gardener's key. {"position":"800,450","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+With help from the flowers, Sophia spends all day observing the gardener, determining the best moment to swipe his keys.
+
+Sophia has three choices;
+<br>
+
+**[[Steal it when he is sleeping]]** <br> 
+**[[steal it when he is eating]]** <br> 
+**[[stealing it while he is gardening]]** <br>
+
+
+:: Chamomile Choice 2 {"position":"1775,2625","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+With this setback, she has to pick one of the other choices.
+
+What does Sophia decide to do?
+<br>
+
+**[[Kill Camelia]]** <br>
+**[[Kill no one]]** <br>
+
+
+:: Chamomile: Choose another option {"position":"1775,2375","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+With this failure, she must now choose from the remaining options.
+
+What does Sophia decide to do?
+<br>
+
+**[[Kill Lavender ->Kill Lavender 2]]** <br>
+**[[Kill Camelia]]** <br>
+**[[Kill no one]]** <br>
+
+
+:: Desicion Time {"position":"2025,2125","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+After carefully considering each plant's perspective, Sophia finds herself facing a daunting decision: which plant to sacrifice. 
+
+She knows that she must make a difficult choice.
+
+What does Sophia decide to do?
+<br>
+
+**[[Kill Chamomile]]** <br>
+**[[Kill Lavender]]** <br>
+**[[Kill Camelia]]** <br>
+**[[Kill no one]]** <br>
+
+
+:: Finish {"position":"2125,3100","size":"100,100"}
+hasCloak: true
+config.header.center: 'Finish'
+
+--
+
+[align center]
+# Sophia Before Poetry
+
+{embed image: 'https://github.com/Pothole95/Images-IN/blob/main/Finish%20Page%20Image.jpg?raw=true'}
+
+Thanks for playing! <br>
+
+We hope that you enjoyed our game. <br>
+
+[Align Left]
+<br>
+**Created by;
+<br>**
+_Karina de Oliveira G Dias_ <br>
+_Shayne Fogarty_  <br>
+_Rita Alexandra Borba Ormonde_ <br>
+_Aleksandar Kanev_ <br>
+
+<br>
+
+
+
+:: Gardener's story {"position":"1850,600","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Concerned, Sophia questions why he wants to possess this powerful plant. 
+
+The gardener confesses that he wants to go back in time to spend more time with his daughter who had passed away at around Sophia’s age.
+
+Sophia is shaken.
+
+Should Sophia;
+<br>
+
+**[[Help the gardener]]** <br>
+**[[Try to stop him]]** <br>
+
+
+:: Go talk with Camelia {"position":"2225,2000","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Camélia says that she is not the plant she is searching for.
+
+She is very confident about it, and informs Sophia that she will be making a terrible choice if she cuts her.
+<br>
+
+**[[Go talk with Chamomile]]** <br>
+**[[Go talk with Lavender]]** <br>
+**[[Make a decision->Desicion Time]]** <br>
+
+
+:: Go talk with Chamomile {"position":"1825,2000","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+The plant tells her that she isn’t the correct one, despite being everyone's preferred flavor of tea. 
+
+The plant is exhausted by the cycle of being cut for tea, and pleads for mercy.
+
+Moved by the plant’s plea, Sophia decides to continue her search.
+
+Who should Sophia speak to next?
+<br>
+
+**[[Go talk with Lavender]]** <br>
+**[[Go talk with Camelia]]** <br> 
+**[[Make a decision->Desicion Time]]** <br>
+
+
+:: Go talk with Lavender {"position":"2025,1950","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Lavender trembles with fear, and informs Sophia that she isn’t the right plant. 
+
+Lavender wants to continue living and spreading her beautiful fragrance.
+
+Who should Sophia speak to next?
+<br>
+
+**[[Go talk with Chamomile]]** <br>
+**[[Go talk with Camelia]]** <br>
+**[[Make a decision->Desicion Time]]** <br>
+
+
+:: Go to Cactus Garden {"position":"1700,1000","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+She is immediately met with hostility by the Cacti. The plants mock her, calling her naive and dismissing the gardener's claims as lies. 
+
+They assert that there is no such thing as a powerful plant, leaving Sophia disheartened by their response.
+
+Sophia should pick another garden.
+
+Where should she go next?
+<br>
+
+**[[Go to Lake Garden->Lake 1]]** <br>
+**[[Go to Main Garden-> Main 2]]** <br>
+
+
+:: Go to Lake Garden {"position":"2050,1000","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+In the lake garden everyone is sympathetic and kind to her. She feels welcomed and accepted.
+
+They say the powerful plant isn’t in the lake garden but wish her well on her journey. 
+
+They give her the advice to always be kind and to follow her heart in every step of the journey.
+
+Sophia should pick another garden.
+
+Where should she go next?
+<br>
+
+**[[Go to Cactus Garden->Cactus 3]]** <br>
+**[[Go to Main Garden->Main 4]]** <br>
+
+
+:: Go to Main Garden {"position":"2400,1000","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+When Sophia arrives at the Main garden, the plants are cheerful and vibrant, their colors mirroring their friendly demeanor.
+
+She questions them about the whereabouts of the powerful plant, to which they respond with uncertainty. They seem to be withholding some information.
+
+Sophia should pick another garden.
+
+Where should she go next?
+<br>
+
+**[[Go to Cactus Garden->Cactus 5]]** <br>
+**[[Go to Lake Garden->Lake 6]]** <br>
+
+
+:: Help the gardener {"position":"2050,800","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Sophia offers to speak to each plant, with the hope of uncovering the whereabouts of the elusive magical plant within the garden.
+
+Where should she look?
+<br>
+
+**[[The Cactus Garden ->Go to Cactus Garden]]** <br>
+**[[The Lake Garden ->Go to Lake Garden]]** <br>
+**[[The Main Garden ->Go to Main Garden]]** <br>
+
+
+
+:: I am sure {"position":"1325,625","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Sophia finds the sinister presence of the poisonous mushroom. 
+
+As she approaches, the mushroom, evilly and eagerly embraces Sophia's intentions with a sinister "HELL YEAH." 
+
+Undeterred, Sophia picks the poisonous mushroom and continues.
+
+What should she do with the mushroom?
+<br>
+
+**[[Tell him that the mushroom is a snack ->Offer it directly to the gardener as a snack]]** <br>
+**[[Put it in his tea ->Secretly put it in his food]]** <br>
+
+
+:: In the lake {"position":"450,1000","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Sophia throws the key as far into the middle of the lake as she can. The key immediately sinks into the deep water.
+
+<br>
+
+**[[Continue->Thief Choice]]**
+
+
+:: Inside a tree {"position":"675,1025","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Sophia hides the key inside and entrusts Old Big Tree to keep it safe from the gardener.
+
+She is spotted by her nanny while hiding the keys and she is confronted. 
+
+**[[Return the key ->confess your action]]** <br>
+**[[Refuse to return the key ->deny that you stole it]]** <br>
+
+
+:: Inside her jacket {"position":"800,1025","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+As Sophia conceals the key within her jacket, she heads towards her house for lunch. However, during her journey, the key slips from its hiding place and falls to the ground, catching her nanny’s keen eye.
+
+Her nanny sternly gives her the option to return the key.
+<br>
+
+**[[Return the key ->confess your action]]** <br>
+**[[Lie and refuse to return the key ->deny that you stole it]]** <br>
+
+
+:: Kill Camelia {"position":"2125,2825","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Opting to harvest three camellias and brew the tea, Sophia watches anxiously as the gardener drinks it. 
+
+To their amazement, it works! 
+
+The gardener is transported back in time, catching a fleeting glimpse of his daughter. 
+
+However, upon coming back to reality, he soon realizes the limitations of his newfound ability.
+
+Though he can revisit the past, he cannot alter, he can only cherish the memories that he has. 
+
+With this realization, the gardener finds solace and closure, finally ready to embrace the present and move forward.
+<br>
+
+**[[Continue ->Sophia's Realisation]]**
+
+
+:: Kill Chamomile {"position":"1775,2250","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Sophia selects three chamomile flowers and brews the tea as instructed. However, the gardener consumes it without any effect. 
+<br>
+
+**[[Continue ->Chamomile: Choose another option]]**
+
+
+
+
+:: Kill Chamomile 2 {"position":"1950,2525","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Sophia selects three chamomile flowers and brews the tea as instructed. However, the gardener consumes it without any effect. 
+<br>
+
+**[[Continue ->Lavender Choice 2]]**
+
+
+:: Kill Lavender {"position":"1950,2250","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Sophia opts to harvest three lavender flowers and brews the tea, hopeful for success. Disappointingly, the gardener consumes it to no avail. 
+
+<br>
+
+**[[Continue ->Lavender: Choose another option]]**
+
+
+:: Kill Lavender 2 {"position":"1775,2500","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Sophia opts to harvest three lavender flowers and brews the tea, hopeful for success. Disappointingly, the gardener consumes it to no avail. 
+
+<br>
+
+**[[Continue ->Chamomile Choice 2]]**
+
+
+:: Kill no one {"position":"2350,2425","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Reluctant to harm any of the plants, Sophia confides in the gardener about her dilemma, expressing how guilty she would feel.
+
+Understanding her, the gardener reflects on their journey together, appreciating that Sophia brought him solace by reminding him of time spent with his own daughter. 
+
+Their bond has been a source of comfort and a meaningful healing process for him.
+
+<br>
+
+**[[Continue->Sophia's Realisation]]**
+
+
+:: Lake 1 {"position":"1600,1150","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+In the lake garden everyone is sympathetic and kind to her. She feels welcomed and accepted.
+
+They say the powerful plant isn’t in the lake garden but wish her well on her journey. 
+
+They give her the advice to always be kind and to follow her heart in every step of the journey
+<br>
+
+**[[Go to Main Garden->Main 1.1]]**
+
+
+:: Lake 2.1 {"position":"1800,1325","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+In the lake garden everyone is sympathetic and kind to her. She feels welcomed and accepted.
+
+They say the powerful plant isn’t in the lake garden but wish her well on her journey. 
+
+They give her the advice to always be kind and to follow her heart in every step of the journey
+<br>
+
+**[[Next->AfterGardens]]**
+
+
+:: Lake 5.1 {"position":"2300,1300","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+In the lake garden everyone is sympathetic and kind to her. She feels welcomed and accepted.
+
+They say the powerful plant isn’t in the lake garden but wish her well on her journey. 
+
+They give her the advice to always be kind and to follow her heart in every step of the journey
+<br>
+
+**[[Next->AfterGardens]]**
+
+
+:: Lake 6 {"position":"2500,1150","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+In the lake garden everyone is sympathetic and kind to her. She feels welcomed and accepted.
+
+They say the powerful plant isn’t in the lake garden but wish her well on her journey. 
+
+They give her the advice to always be kind and to follow her heart in every step of the journey
+<br>
+
+**[[Go to Cactus Garden->Cactus 6.1]]**
+
+
+:: Lavender Choice 2 {"position":"1950,2650","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+With this failure, she must now choose from the remaining options.
+
+What does Sophia decide to do?
+<br>
+
+**[[Kill Camelia]]** <br>
+**[[Kill no one]]** <br>
+
+
+:: Lavender: Choose another option {"position":"1950,2400","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+With this setback, she has to pick one of the other choices.
+
+What does Sophia decide to do?
+<br>
+
+**[[Kill Chamomile ->Kill Chamomile 2]]** <br>
+**[[Kill Camelia]]** <br>
+**[[Kill no one]]** <br>
+
+
+:: Lie {"position":"350,1275","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Sophia says “I don’t know where the key is. I haven’t seen it.” and the gardener believes her. 
+
+He continues searching for the keys.
+
+<br>
+
+**[[Continue->Panel Lie Game Over]]**
+
+
+:: Main 1.1 {"position":"1600,1300","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+When Sophia arrives at the Main garden, the plants are cheerful and vibrant, their colors mirroring their friendly demeanor.
+
+She questions them about the whereabouts of the powerful plant, to which they respond with uncertainty. They seem to be withholding some information.
+<br>
+
+**[[Next->AfterGardens]]**
+
+
+:: Main 3.1 {"position":"1950,1325","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+When Sophia arrives at the Main garden, the plants are cheerful and vibrant, their colors mirroring their friendly demeanor.
+
+She questions them about the whereabouts of the powerful plant, to which they respond with uncertainty. They seem to be withholding some information.
+<br>
+
+**[[Next->AfterGardens]]**
+
+
+:: Main 4 {"position":"2150,1150","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+When Sophia arrives at the Main garden, the plants are cheerful and vibrant, their colors mirroring their friendly demeanor.
+
+She questions them about the whereabouts of the powerful plant, to which they respond with uncertainty. They seem to be withholding some information.
+<br>
+
+**[[Go to Cactus Garden->Cactus 4.1]]**
+
+
+:: Mysterious Book {"position":"2050,1750","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Hoping that the book contains information about the plant the book is unfortunately in a sorry state, with its pages decayed and illegible, except for a single sentence that reads like a clue: 
+
+**"For the spell to work, you must brew a tea with three perfect flowers."**
+
+Sophia needs to decide which plant to speak to;
+<br>
+
+**[[Chamomile ->Go talk with Chamomile]]** <br>
+**[[Lavender ->Go talk with Lavender]]** <br>
+**[[Camelia ->Go talk with Camelia]]** <br>
+
+
+:: No, I don't want to do this anymore {"position":"1125,625","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+The old three says “*I’m glad, Sophia. You’re better than that. You should choose another method*”.
+<br>
+
+**[[Try another way ->warn the plants of the impending danger]]**
+
+
+
+
+:: Offer it directly to the gardener as a snack {"position":"1275,750","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+She offers the mushroom to the gardener, while saying that it’s a delicious snack. 
+
+The gardener is first delighted by the gesture, but then he becomes concerned as he realises that this mushrooms is poisonous. 
+
+He explains to Sophia that these mushrooms are not edible and she shouldn’t give them to anyone. 
+
+Sophia must now decide whether to,
+<br>
+
+**[[Listen to Big Old Tree and confront the gardener ->Big Old Tree suggests confronting the gardener]]** <br>
+**[[Or, take Camellia advice and steal the gardener's key ->Camellia advocates for stealing the gardener's key.]]** <br>
+
+
+:: Panel 2 {"position":"725,200","size":"100,100"}
+hasCloak: true
+config.header.center: 'Andresen House'
+
+--
+
+In the heart of Porto stands Andresen house, a great mansion enveloped by sprawling gardens that feature many exotic and beautiful plants and trees.
+
+Here, young, and artistic Sophia stays with her nanny and parents, while her other relatives spend vacation elsewhere.
+
+<br>
+
+[[**Continue**->Panel 3]]
+
+
+:: Panel 3 {"position":"900,200","size":"100,100"}
+hasCloak: true
+config.header.center: 'Andresen House'
+
+--
+
+Sophia regularly roams the garden alone, spending her summer break from school in its vibrant flora.
+
+Within the garden, Sophia forms special bonds with the plants. Each of which having it’s own personality, making her feel like she’s surrounded by friends.
+
+<br>
+
+[[**Continue**->Panel 4]]
+
+
+:: Panel 4 {"position":"1050,200","size":"100,100"}
+hasCloak: true
+config.header.center: 'Andresen House'
+
+--
+
+The arrival of the new gardener interrupts Sophia’s reading during an early summer evening.
+Sophia carefully eavesdrops on her parents' conversation from the top of the stairs, she learns of the new gardener's intentions.
+
+He plans to destroy the ivy on the house and poison the weeds that dot the garden.
+
+Sophia is outraged, how could he do this to her beloved green friends?
+
+She must decide, should she **[[warn the plants of the impending danger]]**, or
+**[[talk to her parents]]** and try to persuade them to reconsider the gardener's harsh methods. 
+
+
+:: Panel Lie Game Over {"position":"350,1400","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Miraculously, the following day, the gardener begins cleaning the lake. He notices something shiny hidden on the bottom, when he pulls it out he quickly realizes that it must have been Sophia’s doing. 
+
+Displeased and not wanting any further interruptions to his work, he shares his discovery with Sophia’s parents.
+
+They are very disappointed and forbid their daughter to go the garden alone again.
+<br>
+
+**GAME OVER**
+<br>
+
+**[[Finish]]**
+
+
+:: Say the truth {"position":"550,1275","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Sophia tells the gardener the truth. She confronts him about his intentions, and asks him why does he have to do this. 
+
+Sophia explains how the plants that he is planning to kill are her friends, and how they don’t deserve to die.
+
+<br>
+
+**[[Continue ->Big Old Tree suggests confronting the gardener]]**
+
+
+:: Secretly put it in his food {"position":"1400,750","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+She tries to sneakily insert the poisonous mushroom into the gardener’s tea the next morning. However, the nanny catches her in the act and scolds her.
+
+Sophia must now decide whether to,
+<br>
+
+**[[Listen to Big Old Tree and confront the gardener ->Big Old Tree suggests confronting the gardener]]** <br>
+**[[Or, take Camellia advice and steal the gardener's key ->Camellia advocates for stealing the gardener's key.]]** <br>
+
+
+:: Sophia's Realisation {"position":"2125,2950","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Sophie realizes that she has always had the power to choose her own destiny and follow her heart. 
+
+She has met a lot of different personalities on her journey, many of which tried to tell her what to do. But in the end, she needs to be true to herself.
+
+**GAME OVER**
+<br>
+
+**[[Finish]]**
+
+
+:: Steal Choice {"position":"650,900","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Now that Sophia has the key, she needs to decide where she can hide, so that the gardener won’t able to find it!
+
+She goes to the wise Old Big Tree for some guidance and advice.
+
+Old Big Tree advises that she can choose one of 3 options.
+<br>
+
+**[[Submerge the key in the lake ->In the lake]]** <br>
+**[[Hide the key inside her jacket pocket ->Inside a tree]]** <br>
+**[[Hide the key inside the Old Big Tree ->Inside her jacket]]** <br>
+
+
+:: Steal it when he is sleeping {"position":"600,700","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Under the cover of night, Sophia creeps quietly into the gardener's room, ensuring he’s deeply asleep before lifting the keys from his bedside table.
+<br>
+
+**[[Continue->Steal Choice]]**
+
+
+:: Thief Choice {"position":"450,1150","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Despite the gardener looking for the key, it is never found.
+
+Frustrated, the gardener asks Sophia if she has any idea as to where it might have gone.
+
+What should Sophia do?
+<br>
+
+**[[Tell the gardener the truth ->Say the truth]]** <br>
+**[[Tell the gardener that she doesn’t know where the key is ->Lie]]** <br>
+
+
+
+
+:: Title Page {"position":"525,200","size":"100,100"}
+hasCloak: true
+config.header.center: 'Andresen House'
+
+--
+
+[align center]
+# Sophia Before Poetry
+
+{embed image: 'https://raw.githubusercontent.com/Pothole95/Images-IN/main/House%201.jpg'}
+
+[Align Left]
+<br>
+**Created by;
+<br>**
+_Karina de Oliveira G Dias_ <br>
+_Shayne Fogarty_  <br>
+_Rita Alexandra Borba Ormonde_ <br>
+_Aleksandar Kanev_ <br>
+
+<br>
+
+[Align Center]
+**[[Begin Adventure->Panel 2]]**
+
+
+
+:: Try to stop him {"position":"1650,800","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+**DO NOT** help the gardener, and instead;
+<br>
+
+**[[Listen to Cactus, who proposes poisoning the gardener ->Camellia advocates for stealing the gardener's key.]]** <br>
+**[[Or, take Camellia advice and steal the gardener's key ->Cactus proposes poisoning the gardener]] <br>
+
+
+:: confess your action {"position":"875,1350","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Sophia chooses to return the keys to the gardener and apologize. The gardener is sympathetic and accepts her apology.
+
+She has now the choice to either try to poison him or to confront him.
+
+She must now decide whether to confront him, or to remove him from the garden completely.
+
+Should Sophia decide to;
+<br>
+
+**[[Poison the gardener ->Cactus proposes poisoning the gardener]]** <br>
+**[[Confront the gardener ->Big Old Tree suggests confronting the gardener]]** <br>
+
+
+:: deny that you stole it {"position":"750,1350","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Sophia chooses to not give the key back to the gardener. 
+
+Sophia’s nanny informs her father about her bad behavior, and refusal to return the key. 
+
+Sophia’s father is furious, and he refuses to listen to any explanation that she gives.
+
+Sophia is punished by staying in her room for a whole month.
+<br>
+
+**GAME OVER**
+<br>
+
+**[[Finish]]**
+
+
+:: steal it when he is eating {"position":"750,700","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+While the gardener is having lunch, her friend Ivy knocks a slate from the roof, distracting the gardener and giving Sophia enough time to steal the key on the lunch bench.
+
+<br>
+
+**[[Continue->Steal Choice]]**
+
+
+:: stealing it while he is gardening {"position":"900,700","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Sophia tries to steal from his pocket while he is cutting weeds and the gardener catches her red handed. 
+
+That wasn’t the wisest move!
+
+Maybe Sophia should choose a different option?
+<br>
+
+**[[Try something else->Camellia advocates for stealing the gardener's key.]]**
+
+
+:: talk to her parents {"position":"1200,100","size":"100,100"}
+hasCloak: true
+config.header.center: 'Andresen House'
+
+--
+
+Sophia decides to talk to her parents, sharing her belief that the plants are alive and that they’re her friends. 
+
+However, her parents dismiss her notions as nonsense, urging her not to entertain such silly thoughts.
+
+<br>
+
+**[[Continue->warn the plants of the impending danger]]**
+
+
+:: warn the plants of the impending danger {"position":"1200,300","size":"100,100"}
+hasCloak: true
+config.header.center: 'Garden'
+
+--
+
+Sophia rushes outside to warn her her friends. Sophia together with the plants, they realize that they must devise a plan to stop the evil gardener. 
+
+Sophia is given three options. What should she do?
+<br>
+
+**[[Camellia advocates for stealing the gardener's key.]]** <br> 
+**[[Big Old Tree suggests confronting the gardener]]** <br> 
+**[[Cactus proposes poisoning the gardener]]** <br>
+
+
+:: StoryStylesheet [stylesheet]
+tw-story {
+ background-image:url(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNyNmhnbHBvYmo2cjk5Mmoybmk4NzRjeng4bGJ4aWZ4N243OXduOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO4kSYahYQr6e1a/giphy.gif);
+ background-size:cover;
+}
